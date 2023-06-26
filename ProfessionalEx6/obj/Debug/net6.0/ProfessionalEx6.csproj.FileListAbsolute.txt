@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\bin\Debug\net6.0\ProfessionalEx6.exe
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\bin\Debug\net6.0\ProfessionalEx6.deps.json
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\bin\Debug\net6.0\ProfessionalEx6.runtimeconfig.json
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\bin\Debug\net6.0\ProfessionalEx6.dll
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\bin\Debug\net6.0\ProfessionalEx6.pdb
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ProfessionalEx6.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ProfessionalEx6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ProfessionalEx6.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ProfessionalEx6.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ProfessionalEx6.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ProfessionalEx6.dll
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\refint\ProfessionalEx6.dll
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ProfessionalEx6.pdb
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ProfessionalEx6.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\ProfessionalEx2\ProfessionalEx6\obj\Debug\net6.0\ref\ProfessionalEx6.dll

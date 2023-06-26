@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qW8UuMpiBlFDB9PygkVYMzEuLFSfZaoFdkbnppTVm7HSlHTmhteBVrg8qrdJrcpTYcxXXnj21WDGQi6/1fItLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vlad\\source\\repos\\ProfessionalEx2\\ProfessionalLesson4\\ProfessionalLesson4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlad\\.nuget\\packages\\htmlagilitypack\\1.11.48\\htmlagilitypack.1.11.48.nupkg.sha512"
+  ],
+  "logs": []
+}
